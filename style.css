@@ -76,9 +76,11 @@ a {
 #section2 .fa-file-alt {
     width: 20%;
     margin-right: 5px;
+    margin-bottom: -5px;
 }
 
 #section2 .fa-arrow-circle-right {
     width: 8%;
     margin-right: 5px;
+    margin-bottom: -3px;
 }
