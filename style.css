@@ -18,6 +18,7 @@ a {
     padding: 15px;
     border-radius: 5px;
     text-decoration: none;
+    
 }
 
 /* -----------section2--------------- */
@@ -37,7 +38,7 @@ a {
     display: flex;
 }
 
-#section .pic-blocks {
+#section2 .pic-blocks {
     flex-wrap: wrap;
 }
 
